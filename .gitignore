@@ -1,0 +1,9 @@
+# ignore the following files
+tn.movie_budgets.csv.gz
+tmdb.movies.csv.gz
+rt.reviews.tsv.gz
+rt.movie_info.tsv.gz
+imdb.title.principals.csv.gz
+imdb.title.crew.csv.gz
+imdb.title.akas.csv.gz
+imdb.name.basics.csv.gz
